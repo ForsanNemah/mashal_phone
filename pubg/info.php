@@ -22,7 +22,7 @@ $gmap_url="https://goo.gl/maps/S1Zko9MvKiYzqPQV9";
 
 $site_name="مشعل فون ";
 $dr_name="PUBG  شحن شدات";
-$add_title="عروض   المولد النبوي ";
+$add_title=" اقوى العروض ";
 
 $sidebar1_msg="نحلم ونحقق";
 $sidebar2_msg="خدماتنا ";
