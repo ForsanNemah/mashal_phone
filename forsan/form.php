@@ -214,7 +214,7 @@ echo  $add_source;
 
 
 
-                                    <button id="send" type="submit" class="btn submit-btn">اضغط للتسجيل</button>
+                                    <button id="send" type="submit" class="btn submit-btn">الحصول على كود الخصم والانتقال الى المتجر  </button>
                                 </form>
                             </div>
                         </div>
