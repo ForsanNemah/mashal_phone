@@ -281,12 +281,12 @@ include 'info.php';
 
 
 
-                                    <font color="white">يرجى كتابة ملاحظتك مع اسمك ورقم الجوال ،</font> 
+                                    <font color="white">يرجى كتابة ملاحظتك</font> 
                                     <br>
                                     <br>
                                     <br>
                                     <br>
-                                    <font color="white">اذا كانت هناك مشكله </font> 
+                                    <font color="white">مع اسمك ورقم الجوال ،اذا كانت هناك مشكله </font> 
                                     <br>
                                     <br>
                                     <br>
