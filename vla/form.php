@@ -417,7 +417,7 @@ include 'info.php';
 font
             {
                 font-family:    Arial, Helvetica, sans-serif;
-                font-size:      20px;
+                font-size:      16px;
                 font-weight:    bold;
             }
 
