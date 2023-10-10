@@ -9,7 +9,7 @@ $action_url="https://script.google.com/macros/s/AKfycbzrpgTDZG6xWxC5eJYj3dY3mPer
 
 $logo_h='150px';
 $logo_w='150px';
-$form_bg_color="#e75480";
+$form_bg_color="#AA336A";
 $bg_image="ks.webp";
 $sliders=0;
 $add_source="snap 1  ";
