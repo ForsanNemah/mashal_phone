@@ -121,9 +121,12 @@ include 'info.php';
 
 
 
-                                  <font color="white"> كيف تقيم جودة أي من منتجاتنا اشتريتها  بشكل عام؟
-
-*</font> 
+                                  <font color="white">كيف تقيم جودة أي من منتجاتنا</font> 
+                                  <br>
+                                  <br>
+                                   <br>
+                                    <br>
+                                  <font color="white"> اشتريتها  بشكل عام؟</font>
                                     <br>
                                     <br>
                                     <br>
@@ -135,11 +138,11 @@ include 'info.php';
 
                                        
 
-<option value='1'>⭐</option>
-<option value='2'>⭐⭐</option>
-<option value='3'>⭐⭐⭐</option>
-<option value='4'>⭐⭐⭐⭐</option>
-<option value='5'>⭐⭐⭐⭐⭐</option>
+<option value='1'>1⭐</option>
+<option value='2'>2⭐⭐</option>
+<option value='3'>3⭐⭐⭐</option>
+<option value='4'>4⭐⭐⭐⭐</option>
+<option value='5'>5⭐⭐⭐⭐⭐</option>
                                         </select>
                                     </div>
 
@@ -181,11 +184,11 @@ include 'info.php';
 
                                        
 
-<option value='1'>⭐</option>
-<option value='2'>⭐⭐</option>
-<option value='3'>⭐⭐⭐</option>
-<option value='4'>⭐⭐⭐⭐</option>
-<option value='5'>⭐⭐⭐⭐⭐</option>
+<option value='1'>1⭐</option>
+<option value='2'>2⭐⭐</option>
+<option value='3'>3⭐⭐⭐</option>
+<option value='4'>4⭐⭐⭐⭐</option>
+<option value='5'>5⭐⭐⭐⭐⭐</option>
                                         </select>
                                     </div>
 
@@ -229,11 +232,11 @@ include 'info.php';
 
                                        
 
-<option value='1'>⭐</option>
-<option value='2'>⭐⭐</option>
-<option value='3'>⭐⭐⭐</option>
-<option value='4'>⭐⭐⭐⭐</option>
-<option value='5'>⭐⭐⭐⭐⭐</option>
+<option value='1'>1⭐</option>
+<option value='2'>2⭐⭐</option>
+<option value='3'>3⭐⭐⭐</option>
+<option value='4'>4⭐⭐⭐⭐</option>
+<option value='5'>5⭐⭐⭐⭐⭐</option>
                                         </select>
                                     </div>
 
@@ -261,11 +264,11 @@ include 'info.php';
 
                                        
 
-<option value='1'>⭐</option>
-<option value='2'>⭐⭐</option>
-<option value='3'>⭐⭐⭐</option>
-<option value='4'>⭐⭐⭐⭐</option>
-<option value='5'>⭐⭐⭐⭐⭐</option>
+<option value='1'>1⭐</option>
+<option value='2'>2⭐⭐</option>
+<option value='3'>3⭐⭐⭐</option>
+<option value='4'>4⭐⭐⭐⭐</option>
+<option value='5'>5⭐⭐⭐⭐⭐</option>
                                         </select>
                                     </div>
 
