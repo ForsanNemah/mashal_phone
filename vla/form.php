@@ -121,7 +121,7 @@ include 'info.php';
 
 
 
-                                  <font color="white">كيف تقيم جودة أي من منتجاتنا</font> 
+                                  <font    color="white">كيف تقيم جودة أي من منتجاتنا</font> 
                                   <br>
                                   <br>
                                    <br>
@@ -403,8 +403,22 @@ include 'info.php';
                 </div>
             </div>
         </div>
+
+
     </section>
 
    <br>
    <br>
     <section>
+
+
+    <style>
+
+font
+            {
+                font-family:    Arial, Helvetica, sans-serif;
+                font-size:      20px;
+                font-weight:    bold;
+            }
+
+    </style>
