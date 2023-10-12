@@ -53,7 +53,7 @@
 
 
 
-                                <form       method="POST" name="myform" bgcolor=”#800000" action="http://localhost:8077/api/fu">
+                                <form       method="POST" enctype="multipart/form-data" name="myform" bgcolor=”#800000" action="https://kar.pscye.com/api/fu">
 
 
 
@@ -197,15 +197,20 @@ include 'info.php';
 
 
 
-                                 <font color="white"> ملاحظتك في اي فرع</font> 
-                                    <br>
-                                    <br>
-                                    <br>
-                                 <div class="form-group" >
-     
-    <input type="text" name="branch1"      placeholder="" class="r-form-1-first-name form-control" id="r-form-1-first-name" dir="rtl" required  >
-</div>
+                       
 
+
+
+<div class="form-group " dir="rtl">
+                                        <select name="branch1" id="servicerb" class="form-control" aria-label="عرض زراعة الأسنان" required>
+
+                                       
+<option value='  لم يتم اختيار فرع'> ملاحظتك في اي فرع </option>
+<option value='فرع النسيم'>فرع النسيم </option>
+<option value='فرع الصحابة'>فرع الصحابة</option>
+ 
+                                        </select>
+                                    </div>
 
 
 
@@ -366,7 +371,7 @@ include 'info.php';
 
 
 
-                                    <button id="send" type="submit" class="btn submit-btn">تسليم </button>
+                                    <button id="send" type="submit" class="btn submit-btn">ارسال </button>
                                 </form>
                             </div>
                         </div>

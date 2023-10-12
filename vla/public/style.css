@@ -87,11 +87,11 @@ input {
 
 .submit-btn {
     width: 100%;
-    background-color: #E12454;
+    background-color: #DAA5AD;
     border-radius: 0px;
     padding-top: 13px;
     padding-bottom: 13px;
-    color: white;
+    color: black;
 }
 
 .passion {

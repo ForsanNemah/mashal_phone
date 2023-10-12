@@ -477,7 +477,7 @@ var datetime = "" + currentdate.getDate() + "/"
 
 
 select>option{ 
-                   height:25px;
+                   height:30px;
                  }
 
 
