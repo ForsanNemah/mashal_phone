@@ -1,13 +1,8 @@
-<h2>  <?php
-
-include 'info.php';
-
- echo $info['sidebar3_msg'];
+<h2> 
 
 
+slider name
 
-
-?>
 
     </h2>
 <br>
