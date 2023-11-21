@@ -26,7 +26,7 @@
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">رقم الجوال </label>
-    <input  name="phone" type="number" class="form-control"   placeholder="5xxxxxxxxxx" minlength="9" maxlength="9"  required>
+    <input  name="phone" type="tel" class="form-control"   placeholder="5xxxxxxxxxx" minlength="9" maxlength="9"  required>
   </div>
 
  

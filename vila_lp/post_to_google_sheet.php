@@ -1,6 +1,7 @@
 <?php
 
  
+include "info.php";
 
 $name=$_POST['name'];
 $phone=$_POST['phone'];
@@ -25,7 +26,7 @@ $postParameter = array(
     
 );
 
-$curlHandle = curl_init('https://script.google.com/macros/s/AKfycbxAAiy6ogGoh2HRpW-bEgh1I7R25FIe5ab-aqvVi0PzWeYQZtfYAeWrhyyxLt45FKHT/exec');
+$curlHandle = curl_init($action_url);
 curl_setopt($curlHandle, CURLOPT_POSTFIELDS, $postParameter);
 curl_setopt($curlHandle, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($curlHandle, CURLOPT_SSL_VERIFYPEER, false);

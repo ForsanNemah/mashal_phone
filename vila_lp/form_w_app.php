@@ -126,7 +126,7 @@ include 'info.php';
 
 
                                     <div class="form-group">
-                                        <input name="phone" id="phn_id" type="number" class="form-control" placeholder="رقم الهاتف" dir="rtl" required>
+                                        <input maxlength="9" minlength="9"    name="phone" id="phn_id" type="tel" class="form-control" placeholder="رقم الهاتف" dir="rtl" required>
                                     </div>
 
                                    
@@ -248,3 +248,21 @@ include 'info.php';
    <br>
    <br>
     <section>
+
+
+
+
+
+
+    <script>
+
+
+function numberOnly(id) {
+    // Get element by id which passed as parameter within HTML element event
+    var element = document.getElementById(id);
+    // This removes any other character but numbers as entered by user
+    element.value = element.value.replace(/[^0-9]/gi, "");
+    
+}
+
+    </script>

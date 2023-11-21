@@ -5,11 +5,11 @@ error_reporting(E_ERROR | E_PARSE);
 //$ad_source=echo "<script> alert(""); </script>";
 
  
-$action_url="https://script.google.com/macros/s/AKfycbwK8-i2Rh77_8crqgpuGeKlyJ-iuJ9ZxqH0h4EktL1eg_u8q3L4HPwEAlDLdpAiJVk/exec";
+$action_url="https://script.google.com/macros/s/AKfycbxAAiy6ogGoh2HRpW-bEgh1I7R25FIe5ab-aqvVi0PzWeYQZtfYAeWrhyyxLt45FKHT/exec";
 
 $logo_h='200px';
 $logo_w='200px';
-$form_bg_color="#821362";
+$form_bg_color="#000000";
 $bg_image="asnan.jpg";
 $sliders=0;
 $add_source="snap 1  ";
