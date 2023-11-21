@@ -40,7 +40,7 @@ echo '<script type="text/javascript">
                 
 alert("       تمت العملية بنجاح  وسيصلك كود الخصم عبر وتساب         ");
 
-window.history.go(-2);
+window.history.go(-1);
  
 </script>
 

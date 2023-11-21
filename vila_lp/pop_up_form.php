@@ -30,9 +30,9 @@
   </div>
 
  
+  <input id="submit_button_id" type="submit" value="ارسال كود الخصم عبر وتساب" class="btn btn-primary" />
 
-
-  <button id="submit_button" type="submit" class="btn btn-primary">ارسال كود الخصم عبر وتساب </button>
+ 
 </form>
 
  
@@ -137,6 +137,10 @@
 
 $("#id_form").on("submit", function(){
    //alert("sss");
+    
+   $("#submit_button_id").val("يرجى الانتظار لثواني ");
+    
+   //alert("okkk");
    return true;
  })
 

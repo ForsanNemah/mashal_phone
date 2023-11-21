@@ -209,8 +209,8 @@ $(document).click(function(evt) {
   
 
   .carousel {
-  width:380px;
-  height:300px;
+  width:400px;
+  height:400px;
   margin:0 auto;
 }
 
@@ -220,7 +220,7 @@ $(document).click(function(evt) {
 .carousel-inner {
     position: relative;
     width: 100%;
-    height:300px;
+    height:400px;
     overflow: hidden;
 }
 
