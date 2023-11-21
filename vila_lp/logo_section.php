@@ -71,12 +71,28 @@ if ($handle = opendir('logo')) {
 
 include 'info.php';
 
- 
+include 'pop_up_form.php';
+
 
 echo "  <h4 style='color:black'  >".$info['ev_logo_name']."</h4>";
-include 'banners.php';
+//include 'banners.php';
 echo "  <h4 style='color:black' > ".$dr_name."</h4>";
-echo "  <h2 style='color:green' class='pulsate'  >".$add_title." </h2>";
+echo "  <h2 style='color:green'    >".$add_title." </h2>";
+echo " 
+
+
+
+
+
+<button type='button' class='btn btn-primary' data-toggle='modal' data-target='#exampleModal'>
+
+
+<h3 style='color:white' class='pulsate'  > احصل على كود خصم عبر وتساب </h3>
+
+</button>
+
+
+";
 
  
 $sn=$_SERVER['SCRIPT_FILENAME'];

@@ -3,7 +3,41 @@
 
  
 
+make_slider("sidebar1","one"," فلادولشي فرع اليرموك  ","   
 
+
+
+<h3><a style='color:blue'  href='https://maps.app.goo.gl/qaNxCDNaiK9ZZidj8'>     فتح الموقع على الخريطة </a></h3>
+
+
+<br>
+<button type='button' class='btn btn-primary' data-toggle='modal' data-target='#exampleModal'>
+
+
+<h3 style='color:white' class='pulsate'  > احصل على كود خصم عبر وتساب </h3>
+
+</button>
+
+");
+make_slider("sidebar2","tow"," فلادولشي فرع النسيم  ","     
+
+
+
+
+
+<h3><a style='color:blue'  href='https://maps.app.goo.gl/RtaR28jkkG2jmPV19'>     فتح الموقع على الخريطة </a></h3>
+
+
+<br>
+<button type='button' class='btn btn-primary' data-toggle='modal' data-target='#exampleModal'>
+
+
+<h3 style='color:white' class='pulsate'  > احصل على كود خصم عبر وتساب </h3>
+
+</button>
+
+
+");
 /*
 make_slider("sidebar1","one","احصل على ابتسامة المشاهير ","");
 

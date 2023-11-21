@@ -312,7 +312,7 @@ var datetime = "" + currentdate.getDate() + "/"
                 //$("#slider2").load("slider2.php"); 
                 //$("#cta_whatsapp").load("cta/cta_whatsapp.php"); 
            // $("#cta_call").load("cta/cta_call.php"); 
-               // $("#slider3").load("slider3.php"); 
+                //$("#slider3").load("slider3.php"); 
                 
                // $("#includedContent").load("form_name_phn.php"); 
                 // $("#includedContent").load("form_only_whatsapp.php"); 

@@ -7,25 +7,30 @@ error_reporting(E_ERROR | E_PARSE);
  
 $action_url="https://script.google.com/macros/s/AKfycbwK8-i2Rh77_8crqgpuGeKlyJ-iuJ9ZxqH0h4EktL1eg_u8q3L4HPwEAlDLdpAiJVk/exec";
 
-$logo_h='300px';
-$logo_w='300px';
+$logo_h='200px';
+$logo_w='200px';
 $form_bg_color="#821362";
 $bg_image="asnan.jpg";
 $sliders=0;
 $add_source="snap 1  ";
-$phn="966564756555";
+$phn="966582880736";
 $end_date="20-3-2023";
 $end_time="12:00";
 $insta_url="https://www.instagram.com/dr.kareem_asran/";
 $snap_url="https://www.instagram.com/dr.eman_elsharkawy/?hl=ar";
 $gmap_url="https://goo.gl/maps/S1Zko9MvKiYzqPQV9";
 
-$site_name=" مجمع عناية وجمال الطبي  ";
+$site_name=" فلادولشي تنوع في الفخامة مع تفاصيل ساحر        ";
 $dr_name=
 "
- 
+‎شوكولاتة · ‎مخبوزات · ‎حلويات غربية
 ";
-$add_title="50% خصومات تصل الى ";
+$add_title="
+ <h>خصومات الجمعة البيضاء</h>
+ <br>
+50% خصومات تصل الى 
+
+";
 
 $sidebar1_msg="نحلم ونحقق";
 $sidebar2_msg="خدماتنا ";
@@ -172,8 +177,7 @@ $info = array(
 
  
 
-    تتوفر خدمة التقسيط على دفعات
-
+  
 
 
  
