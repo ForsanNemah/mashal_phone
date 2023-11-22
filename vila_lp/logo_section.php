@@ -108,7 +108,7 @@ echo "
 <br>
 
 
-  <img   src='bn.jpeg' class='img-fluid' alt='Responsive image'    ' >
+ 
 ";
 
  
@@ -117,17 +117,17 @@ $sn=$_SERVER['SCRIPT_FILENAME'];
 $current_script_file=explode("/",$sn);
 //print_r($current_script_file);
  
-/*
- if(end($current_script_file)=="index.php"){
 
-    echo "  <h3><a style='color:blue'  href='index_map_1.php'>موقعنا على الخريطة( فرع الخبر ) </a></h3>";
-    echo "<br>";
-    echo "<br>";
-    echo "  <h3><a style='color:blue'  href='index_map_2.php'>موقعنا على الخريطة( فرع الدمام ) </a></h3>";
+ if(end($current_script_file)=="index.php"){
+    echo " <img   src='bn.jpeg' class='img-fluid' alt='Responsive image'    ' >";
+    //echo "  <h3><a style='color:blue'  href='index_map_1.php'>موقعنا على الخريطة( فرع الخبر ) </a></h3>";
+    //echo "<br>";
+    //echo "<br>";
+    //echo "  <h3><a style='color:blue'  href='index_map_2.php'>موقعنا على الخريطة( فرع الدمام ) </a></h3>";
 
  }
 
-*/
+
 ?>
                   
                   
