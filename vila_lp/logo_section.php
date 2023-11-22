@@ -81,17 +81,34 @@ echo "  <h2 style='color:green'    >".$add_title." </h2>";
 echo " 
 
 
+<button type='button' class='btn btn-primary'  >
 
 
+<a href='https://fladolce.com/index.php?route=common/home'>
+
+<h3 style='color:white'   > طلب عبر المتجر الالكتروني </h3>
+</a>
+
+
+</button>
+<br>
+<br>
 
 <button type='button' class='btn btn-primary' data-toggle='modal' data-target='#exampleModal'>
 
 
-<h3 style='color:white' class='pulsate'  > احصل على كود خصم عبر وتساب </h3>
+<h3 style='color:white' class='pulsate'  > احصل على كود خصم من هنا  </h3>
 
 </button>
 
 
+<br>
+<br>
+<br>
+<br>
+
+
+  <img   src='bn.jpeg' class='img-fluid' alt='Responsive image'    ' >
 ";
 
  
