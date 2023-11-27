@@ -39,7 +39,7 @@ curl_close($curlHandle);
 
 echo '<script type="text/javascript">
                 
-alert("       تمت العملية بنجاح  وسيصلك كود الخصم عبر وتساب         ");
+alert("      f20 كود الخصم الخاص بك هو         ");
 
 window.history.go(-1);
  
