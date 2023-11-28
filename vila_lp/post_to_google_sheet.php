@@ -38,8 +38,13 @@ curl_close($curlHandle);
 
 
 echo '<script type="text/javascript">
-                
-alert("      f20 كود الخصم الخاص بك هو         ");
+
+   var msg="f20 كود الخصم الخاص بك هو \n يمكنك استخدامة  عند زيارتك لاحد فروعنا \n او عند الطلب من المتجر الالكتروني ";   
+
+
+
+           
+alert(msg);
 
 window.history.go(-1);
  
