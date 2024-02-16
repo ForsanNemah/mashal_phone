@@ -119,7 +119,7 @@ $current_script_file=explode("/",$sn);
  
 
  if(end($current_script_file)=="index.php"){
-    echo " <img   src='bn.jpeg' class='img-fluid' alt='Responsive image'    ' >";
+    //echo " <img   src='bn.jpeg' class='img-fluid' alt='Responsive image'    ' >";
     //echo "  <h3><a style='color:blue'  href='index_map_1.php'>موقعنا على الخريطة( فرع الخبر ) </a></h3>";
     //echo "<br>";
     //echo "<br>";

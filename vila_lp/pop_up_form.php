@@ -139,6 +139,8 @@ $("#id_form").on("submit", function(){
    //alert("sss");
     
    $("#submit_button_id").val("يرجى الانتظار لثواني ");
+
+   document.getElementById("submit_button_id").disabled = true;
     
    //alert("okkk");
    return true;
