@@ -26,7 +26,7 @@
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1">رقم الجوال </label>
-    <input  name="phone" type="tel" class="form-control"   placeholder="5xxxxxxxxxx" minlength="9" maxlength="9"  required>
+    <input  name="phone" type="tel" class="form-control"  id="phn_id_of_popup"  placeholder="5xxxxxxxxxx" minlength="9" maxlength="9"  required>
   </div>
 
  
@@ -142,6 +142,32 @@ $("#id_form").on("submit", function(){
 
    document.getElementById("submit_button_id").disabled = true;
     
+
+
+   var event_phn=document.getElementById('phn_id_of_popup').value
+ 
+
+ snaptr('track','SIGN_UP', {
+ 
+ 'user_phone_number': sha256("966"+event_phn)          
+});
+
+
+ttq.identify({
+
+"phone_number":sha256("966"+event_phn)  // string. The phone number of the customer if available. It must be hashed with SHA-256 on the client side.
+
+});
+
+
+ttq.track('CompleteRegistration', {});
+
+
+
+
+//$('#exampleModal').modal('toggle');
+
+
    //alert("okkk");
    return true;
  })
