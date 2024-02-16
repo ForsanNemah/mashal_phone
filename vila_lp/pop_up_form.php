@@ -30,7 +30,7 @@
   </div>
 
  
-  <input id="submit_button_id" type="submit" value="ارسال كود الخصم عبر وتساب" class="btn btn-primary" />
+  <input id="submit_button_id" type="submit" value=" الحصول على كود الخصم " class="btn btn-primary" />
 
  
 </form>
